@@ -120,7 +120,7 @@ public class server_frame extends JFrame implements ActionListener{
 
 			int counter = 0;
 
-			//loop until a possible ss file name
+			//loop until a possible counter file name
 			while(true) {
 
 				//directory + basefilename + counter + filetype from combobox 

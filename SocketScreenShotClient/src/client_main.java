@@ -51,7 +51,7 @@ public class client_main{
                 FileInputStream fis = null;
                 BufferedInputStream bis = null;
                 OutputStream out = null;
-                socket = new Socket("172.20.10.5", 4444);
+                socket = new Socket("127.0.0.1", 4444);
                 System.out.println("Connecting....");
                 File myFile = new File(yol);
 
