@@ -77,7 +77,7 @@ public class client_main{
                 shoots++;
 
             } catch (Exception e) {
-                System.out.println("bekliyorum");
+                System.out.println("Waiting...");
             }
         }
     }
